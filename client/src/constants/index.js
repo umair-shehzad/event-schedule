@@ -88,4 +88,4 @@ export const EVENT_ERRORS = { EventNotFound: "EventNotFound" };
 
 /********************** demo events **********************/
 // comes from codyHouse simple-schedule template
-export { default as DEMO_EVENTS } from "./demoEvents.js";
+
